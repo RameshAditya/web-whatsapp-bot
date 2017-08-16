@@ -30,7 +30,7 @@ while True:
     cur_hour=time.hour
     cur_min=time.minute
     
-    #Wish "Good Morning"
+    #Wish "Good Morning" at 06:00 am
     if wish_morning==0 and cur_hour==6 and cur_min==0:
 
         #Specify contacts to send message to
